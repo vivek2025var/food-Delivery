@@ -73,12 +73,6 @@ D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\scopedcss\bundle\FoodDeliver
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.build.json
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryAPI.props
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryAPI.props
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryAPI.props
-D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.pack.json
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\FoodDeli.472852C7.Up2Date
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\FoodDeliveryAPI.dll
@@ -86,3 +80,9 @@ D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\refint\FoodDeliveryAPI.dll
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\FoodDeliveryAPI.pdb
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\FoodDeliveryAPI.genruntimeconfig.cache
 D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\ref\FoodDeliveryAPI.dll
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\FoodDeliveryAPI.sourcelink.json
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FoodDeliveryAPI\FoodDeliveryAPI\obj\Debug\net8.0\staticwebassets.build.json.cache

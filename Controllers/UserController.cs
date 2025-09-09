@@ -27,15 +27,13 @@ namespace FoodDeliveryAPI.Controllers
             return user == null ? NotFound() : Ok(user);
         }
 
-
         [HttpPost("register")]
         public async Task<IActionResult> RegisterUser(User user)
         {
-            Console.WriteLine("Vivek kumar ki shaadi"); // Debugging message
+            Console.WriteLine("Vivek kumar"); // Debugging message
             await _userService.RegisterUser(user);
             return CreatedAtAction(nameof(GetUser), new { id = user.UserId }, user);
         }
-
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateUser(int id, User user)
